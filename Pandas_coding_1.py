@@ -14,7 +14,7 @@ Age = pd.Series([10,20,30,40], index=['age1', 'age2', 'age3', 'age4'])
 
 Filter_Age = Age[Age>10]
 
-#Calling vakues of Age
+#Calling values of Age
 Age.values
 
 #Calling index of Age
